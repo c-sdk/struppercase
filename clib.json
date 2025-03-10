@@ -1,0 +1,9 @@
+{
+  "name": "struppercase",
+  "version": "0.1.0",
+  "repo": "c-sdk/struppercase",
+  "description": "String uppercase.",
+  "license": "unlicense",
+  "src": ["./struppercase.h", "./struppercase.c"],
+  "keywords": ["string", "uppercase"]
+}
