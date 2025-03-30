@@ -1,3 +1,5 @@
+-Wall
+-Werror
 -std=c17
 -I.
 
